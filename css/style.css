@@ -234,7 +234,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #343148 !important;
+        background: #fd4800 !important;
     }
     
     .navbar a.nav-link {
@@ -248,7 +248,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #343148 !important;
+        background: #f56403 !important;
     }
     
     .navbar .navbar-brand span {
@@ -274,8 +274,9 @@ a:focus {
     margin-bottom: 45px;
     padding: 90px 0;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+background:linear-gradient(to right top, #ff5900, #fa6301, #f56b04, #f0730a, #eb7a12);
     overflow: hidden;
+ 
 }
 
 .hero .container-fluid {
