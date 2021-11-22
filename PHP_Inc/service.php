@@ -9,7 +9,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.0s">
                         <div class="service-item">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/in1.png" style="max-width:100%;" alt="Interior Paints">
                             </div>
                             <h3>INTERIOR
                                 WALL PAINTS</h3>
@@ -21,7 +21,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="service-item active">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/ex2.png" style="max-width:100%;" alt="Image">
                             </div>
                             <h3>EXTERIOR
                                 WALL PAINTS</h3>
@@ -33,7 +33,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="service-item">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/wo3.png" style="max-width:100%;" alt="Image">
                             </div>
                             <h3>WOOD
                                 COATINGS</h3>
@@ -45,7 +45,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="service-item">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/me4.png" style="max-width:100%;" alt="Image">
                             </div>
                             <h3>METAL
                                 ENAMEL PAINTS</h3>
@@ -57,7 +57,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
                         <div class="service-item">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/an5.png" style="max-width:100%;" alt="Image">
                             </div>
                             <h3>PAINT
                                 ANCILLARY</h3>
@@ -69,7 +69,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="1s">
                         <div class="service-item">
                             <div>
-                                <img src="img/p1.png" style="height: 200px;;" alt="Image">
+                                <img src="img/home/tx6.png" style="max-width:100%;" alt="Image">
                             </div>
                             <h3>TEXTURE</h3>
                             <p>

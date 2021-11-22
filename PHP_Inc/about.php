@@ -9,15 +9,17 @@
                     <div class="col-lg-7 col-md-6">
                         <div class="section-header text-left">
                             <p>Learn About Us</p>
-                            <h2>Welcome to Paint Co.</h2>
+                            <h2>Welcome to Walsper.</h2>
                         </div>
                         <div class="about-text">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                            Understanding various paints and their functionalities is 
+                            as important as handpicking shades for your wall colour paints and furniture
+                             since the quality and finish of your wall paint will bring alive your ideas.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.
-                            </p>
+                            Paints easily and begin your home journey right here, with us.
+                        </p>
                             <a class="btn" href="">Learn More</a>
                         </div>
                     </div>

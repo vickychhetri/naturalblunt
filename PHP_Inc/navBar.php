@@ -1,8 +1,8 @@
 <div class="navbar navbar-expand-lg bg-dark navbar-dark">
             <div class="container-fluid">
-                <a href="index.html" class="navbar-brand1">
+                <a href="/" class="navbar-brand1">
                 <!-- above 1 put after brand to close default css class for logo -->
-                <img src="img/logo.png" />
+                <img src="img/logo.webp" style="height: 50px;max-width:100%;" />
                 </a>
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>

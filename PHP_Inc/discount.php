@@ -6,11 +6,11 @@
         </div>
         <div class="container discount-text">
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis
-                ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                Curabitur non nisl nec nisi scelerisque maximus.
+                Use two or more coats of high-quality exterior acrylic-latex paint for painting your metal front door.
+                Glossier paint sheens are easier to clean and last longer. Use semi-gloss or gloss paint for your front
+                door.
             </p>
-            <a class="btn">Checkout Product Now</a>
+            <a class="btn">Contact Now</a>
         </div>
     </div>
 </div>

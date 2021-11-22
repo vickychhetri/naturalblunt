@@ -234,7 +234,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #fd4800 !important;
+        background: #fc8003 !important;
     }
     
     .navbar a.nav-link {
@@ -248,7 +248,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #f56403 !important;
+        background: #fc8003 !important;
     }
     
     .navbar .navbar-brand span {
@@ -273,9 +273,9 @@ a:focus {
     width: 100%;
     margin-bottom: 45px;
     padding: 90px 0;
-    background: rgb(2,0,36);
-background:linear-gradient(to right top, #ff5900, #fa6301, #f56b04, #f0730a, #eb7a12);
-    overflow: hidden;
+    background: rgb(244,132,4);
+    background: linear-gradient(90deg, rgba(244,132,4,1) 28%, rgba(255,175,0,1) 73%, rgba(238,133,4,1) 96%);    
+overflow: hidden;
  
 }
 
@@ -568,7 +568,8 @@ background:linear-gradient(to right top, #ff5900, #fa6301, #f56b04, #f0730a, #eb
 
 .service .service-item:hover,
 .service .service-item.active {
-    background: #343148;
+    /* background: #343148; */
+    background: #fc8003;
     color: #ffffff;
 }
 
@@ -682,7 +683,7 @@ background:linear-gradient(to right top, #ff5900, #fa6301, #f56b04, #f0730a, #eb
 
 .class #class-filter li:hover,
 .class #class-filter li.filter-active {
-    background: #343148;
+    background:  #fc8003;
     color: #F7CAC9;
 }
 

@@ -3,10 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title> we manufacture paints</title>
+    <title> Nature Blunt | Browse through our wide range of Paints, Textures,
+     Patterns and Styles </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="keywords">
-    <meta content="Template" name="description">
+    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
+    <meta content="Browse through our wide range of paints, textures,
+     patterns and styles to find the one that accentuates your home's beauty" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
