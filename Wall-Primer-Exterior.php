@@ -90,7 +90,7 @@
                     <article class="gallery-wrap">
                         <div class="img-big-wrap1">
                             <div>
-                                <a href="#"><img src="img/product/WALLPRIMER_01.jpg"
+                                <a href="#"><img src="img/product/WALL_PRIMER___EXTERIOR_01.png"
                                         style="max-width: 100%;width:100%;"></a>
                             </div>
                         </div> <!-- slider-product.// -->
@@ -107,7 +107,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                            WALL PRIMER
+                          WALL PRIMER ( EXTERIOR)
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -120,9 +120,10 @@
                             <dt>Description</dt>
                             <dd>
                                 <p>
-                                    Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water
-                                    dispersion. This product is best suited for interior and exterior surfaces. Wall
-                                    primer is suitable for priming walls, asbestos, brickwork, etc.
+                                   Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion.
+                                   This is an acrylic resin-based primer with water dispersion property
+                                   that penetrates better than normal water-based primers.
+
                                 </p>
                             </dd>
                         </dl>
@@ -138,57 +139,49 @@
                                     </th>
 
                                     <th>
-                                        VAUES
+                                        WALL PRIMER ( EXTERIOR)
                                     </th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Area of Application
-                                    </td>
-                                    <td>
-                                        Interiors, All types of plasters,false ceiling, asbestos, etc.
-                                    </td>
                                 </tr>
 
                                 <tr>
-                                    <td>Packing Available - Ltr.</td>
-                                    <td>1, 4, 10 and 20.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td>Thinner for Dilution of paint</td>
-                                    <td>Water</td>
+                                    <td  >Packing Available - Ltr.</td>
+                                    <td  >1, 4, 10 and 20.</td>
                                 </tr>
                                 <tr>
-                                    <td>Dilution Ratio of &nbsp;paint</td>
-                                    <td>&gt;500 ml/ltr</td>
+                                    <td  >Thinner for Dilution of paint</td>
+                                    <td  >Water</td>
                                 </tr>
                                 <tr>
-                                    <td>Touch Dry</td>
-                                    <td>15 Minutes</td>
+                                    <td  >Dilution Ratio of &nbsp;paint</td>
+                                    <td  >&gt; 500 ml / ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td>Ready for painting</td>
-                                    <td>6 hours</td>
+                                    <td  >Time gap between primer &amp; 1st. Coat</td>
+                                    <td  >6 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td>Comlete Drying</td>
-                                    <td>7 days</td>
+                                    <td  >Complete Drying</td>
+                                    <td  >7 days</td>
                                 </tr>
                                 <tr>
-                                    <td>Finish</td>
-                                    <td>Matt</td>
+                                    <td  >Finish</td>
+                                    <td  >Matt</td>
                                 </tr>
                                 <tr>
-                                    <td>Coverage / Ltr. / coat- on smooth plaster</td>
-                                    <td>&gt;150 sft. / Ltr.</td>
+                                    <td  >Coverabe / Ltr. / Coat - on smooth plaster</td>
+                                    <td  >&gt; 150 sft. / Ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td>Flammable / Flash Point</td>
-                                    <td>Not Flammable</td>
+                                    <td  >Flammable / Flash Point</td>
+                                    <td  >Not Flammable</td>
                                 </tr>
                                 <tr>
-                                    <td>Shelf Life in tight container</td>
-                                    <td>1 year</td>
+                                    <td  >Shelf Life in tight container</td>
+                                    <td  >1 year</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -211,11 +204,10 @@
     <br><br><br>
     <article class="bg-secondary mb-3">
         <div class="card-body text-center" style="background-color:#fc6203;">
-            <h4 class="text-white">Wall Primer </h4>
-            <p class="h5 text-white"> Wall primer is a pulverized acrylic resin-based product in which water gets
-                dispersed and that penetrates better than traditional water-based primer
-                 products available today.
-                 Wall primer is suitable for priming walls, asbestos, brickwork, etc.
+            <h4 class="text-white">WALL PRIMER ( EXTERIOR) </h4>
+            <p class="h5 text-white">
+               This ensures excellent resistance
+               to alkali and also comes with quick-drying properties and doesn’t have a strange odour
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

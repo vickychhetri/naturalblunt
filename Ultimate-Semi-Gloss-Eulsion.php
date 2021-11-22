@@ -90,7 +90,7 @@
                     <article class="gallery-wrap">
                         <div class="img-big-wrap1">
                             <div>
-                                <a href="#"><img src="img/product/WALLPRIMER_01.jpg"
+                                <a href="#"><img src="img/product/ULTIMATE_SEMI_GLOSS_EULSION.png"
                                         style="max-width: 100%;width:100%;"></a>
                             </div>
                         </div> <!-- slider-product.// -->
@@ -107,7 +107,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                            WALL PRIMER
+                          ULTIMATE SEMI GLOSS EULSION
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -120,9 +120,11 @@
                             <dt>Description</dt>
                             <dd>
                                 <p>
-                                    Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water
-                                    dispersion. This product is best suited for interior and exterior surfaces. Wall
-                                    primer is suitable for priming walls, asbestos, brickwork, etc.
+                              Techno Protect Plus High-Quality Exterior Wall
+                               Latex Paint is water-based, 100% pure acrylic resin emulsion paint. 
+A new generation of high-grade wall paint, refined by the perfect combination of the
+odourless new technology and film-function for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading. 
+
                                 </p>
                             </dd>
                         </dl>
@@ -138,57 +140,73 @@
                                     </th>
 
                                     <th>
-                                        VAUES
+                                      ULTIMATE SEMI GLOSS EULSION
                                     </th>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        Area of Application
-                                    </td>
-                                    <td>
-                                        Interiors, All types of plasters,false ceiling, asbestos, etc.
-                                    </td>
                                 </tr>
 
                                 <tr>
-                                    <td>Packing Available - Ltr.</td>
-                                    <td>1, 4, 10 and 20.</td>
+                                    <td     >Area of Application</td>
+                                    <td      >Interiors, Exteriors, All types of plasters, false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td>Thinner for Dilution of paint</td>
-                                    <td>Water</td>
+                                    <td     >Packing Available - Ltr.</td>
+                                    <td      >1, 4, 10 and 20</td>
                                 </tr>
                                 <tr>
-                                    <td>Dilution Ratio of &nbsp;paint</td>
-                                    <td>&gt;500 ml/ltr</td>
+                                    <td     >Primer Recommended</td>
+                                    <td      >Penetrating primer</td>
                                 </tr>
                                 <tr>
-                                    <td>Touch Dry</td>
-                                    <td>15 Minutes</td>
+                                    <td     >Thinner for Dilution of paint</td>
+                                    <td      >Water</td>
                                 </tr>
                                 <tr>
-                                    <td>Ready for painting</td>
-                                    <td>6 hours</td>
+                                    <td     >Dilution Ratio of paint</td>
+                                    <td      >400-450 mL/Ltr</td>
                                 </tr>
                                 <tr>
-                                    <td>Comlete Drying</td>
-                                    <td>7 days</td>
+                                    <td     ><strong>Elongation (with 20 DFT)</strong></td>
+                                    <td      ><strong>200-300%</strong></td>
                                 </tr>
                                 <tr>
-                                    <td>Finish</td>
-                                    <td>Matt</td>
+                                    <td     >No. of Coats for paint</td>
+                                    <td      >Two</td>
                                 </tr>
                                 <tr>
-                                    <td>Coverage / Ltr. / coat- on smooth plaster</td>
-                                    <td>&gt;150 sft. / Ltr.</td>
+                                    <td     >The time gap between primer &amp; 1st. Coat</td>
+                                    <td      >6 h</td>
                                 </tr>
                                 <tr>
-                                    <td>Flammable / Flash Point</td>
-                                    <td>Not Flammable</td>
+                                    <td     >The time gap between 1st. Coat &amp; 2nd. Coat</td>
+                                    <td      >4h</td>
                                 </tr>
                                 <tr>
-                                    <td>Shelf Life in tight container</td>
-                                    <td>1 year</td>
+                                    <td     >Touch Dry</td>
+                                    <td      >20 mins</td>
+                                </tr>
+                                <tr>
+                                    <td     >Complete Drying</td>
+                                    <td      >7 days</td>
+                                </tr>
+                                <tr>
+                                    <td     >Finish</td>
+                                    <td      >smooth</td>
+                                </tr>
+                                <tr>
+                                    <td     >Coverage / Ltr. - on smooth Primed plaster</td>
+                                    <td      >Up to 120 sft/Ltr</td>
+                                </tr>
+                                <tr>
+                                    <td     >Flammable / Flash Point</td>
+                                    <td      >Non-flammable</td>
+                                </tr>
+                                <tr>
+                                    <td     >Shelf Life in a tight container</td>
+                                    <td      >1 yr</td>
+                                </tr>
+                                <tr>
+                                    <td     >Life After Application</td>
+                                    <td      >10 years (With Bio wash and penetrating primer)</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -211,11 +229,9 @@
     <br><br><br>
     <article class="bg-secondary mb-3">
         <div class="card-body text-center" style="background-color:#fc6203;">
-            <h4 class="text-white">Wall Primer </h4>
-            <p class="h5 text-white"> Wall primer is a pulverized acrylic resin-based product in which water gets
-                dispersed and that penetrates better than traditional water-based primer
-                 products available today.
-                 Wall primer is suitable for priming walls, asbestos, brickwork, etc.
+            <h4 class="text-white">ULTIMATE SEMI GLOSS EULSION </h4>
+            <p class="h5 text-white">
+APPLICATION: Apply to the new coating or the old wall refurbishment of the residential and commercial space.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

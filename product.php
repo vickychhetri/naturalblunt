@@ -90,7 +90,7 @@
                     <article class="gallery-wrap">
                         <div class="img-big-wrap1">
                             <div>
-                                <a href="#"><img src="img/product/WALLPRIMER_01.jpg"
+                                <a href="#"><img src="img/product/white_cement_based_acrylic_wall_putty.jpg"
                                         style="max-width: 100%;width:100%;"></a>
                             </div>
                         </div> <!-- slider-product.// -->
@@ -99,15 +99,14 @@
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
-                        </div>
+                        </div> 
                          -->
                         <!-- slider-nav.// -->
                     </article> <!-- gallery-wrap .end// -->
                 </aside>
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
-                        <h3 class="title mb-3" style="font-weight: bold;">
-                            WALL PRIMER
+                        <h3 class="title mb-3" style="font-weight: bold;">White Cement Based Acrylic Wall Putty
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -120,9 +119,9 @@
                             <dt>Description</dt>
                             <dd>
                                 <p>
-                                    Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water
-                                    dispersion. This product is best suited for interior and exterior surfaces. Wall
-                                    primer is suitable for priming walls, asbestos, brickwork, etc.
+                                    Specially designed acrylic putty manufactured to offer white smooth finish, strength
+                                    and durability to heat. This is highly useful for sealing cracks, holes, gaps,
+                                    joints.
                                 </p>
                             </dd>
                         </dl>
@@ -143,61 +142,78 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        Area of Application
+                                        Appearance
+
                                     </td>
                                     <td>
-                                        Interiors, All types of plasters,false ceiling, asbestos, etc.
+                                        White Powder Form
                                     </td>
                                 </tr>
-
                                 <tr>
-                                    <td>Packing Available - Ltr.</td>
-                                    <td>1, 4, 10 and 20.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors &amp; Exteriors on all types of plasters, false ceiling, asbestos,
+                                        etc.</td>
                                 </tr>
                                 <tr>
-                                    <td>Thinner for Dilution of paint</td>
-                                    <td>Water</td>
+                                    <td>Packing Available</td>
+                                    <td>20 Kg. and 40 Kg.</td>
                                 </tr>
                                 <tr>
-                                    <td>Dilution Ratio of &nbsp;paint</td>
-                                    <td>&gt;500 ml/ltr</td>
+                                    <td>Dilution</td>
+                                    <td>40% to 50% of water to be added to make the powder into paste form.</td>
+                                </tr>
+                                <tr>
+                                    <td>No. of coats</td>
+                                    <td>Two</td>
+                                </tr>
+                                <tr>
+                                    <td>Time gap between 1st. Coat and 2nd Coat</td>
+                                    <td>6 hrs.</td>
+                                </tr>
+                                <tr>
+                                    <td>Coating Thickness / 2 coats</td>
+                                    <td>1 - 1.5 mm</td>
                                 </tr>
                                 <tr>
                                     <td>Touch Dry</td>
-                                    <td>15 Minutes</td>
-                                </tr>
-                                <tr>
-                                    <td>Ready for painting</td>
-                                    <td>6 hours</td>
-                                </tr>
-                                <tr>
-                                    <td>Comlete Drying</td>
-                                    <td>7 days</td>
+                                    <td>60 Minutes</td>
                                 </tr>
                                 <tr>
                                     <td>Finish</td>
-                                    <td>Matt</td>
+                                    <td>Matt &amp; Smooth</td>
                                 </tr>
                                 <tr>
-                                    <td>Coverage / Ltr. / coat- on smooth plaster</td>
-                                    <td>&gt;150 sft. / Ltr.</td>
+                                    <td>Initial Setting</td>
+                                    <td>100 mints.</td>
+                                </tr>
+                                <tr>
+                                    <td>Final Setting</td>
+                                    <td>500 mints.</td>
+                                </tr>
+                                <tr>
+                                    <td>Compressive Strength</td>
+                                    <td>&gt;1 Mpa</td>
+                                </tr>
+                                <tr>
+                                    <td>Coverage / 20 kg. on smooth plaster</td>
+                                    <td>&gt; 190 sft.</td>
                                 </tr>
                                 <tr>
                                     <td>Flammable / Flash Point</td>
                                     <td>Not Flammable</td>
                                 </tr>
                                 <tr>
-                                    <td>Shelf Life in tight container</td>
-                                    <td>1 year</td>
+                                    <td>Primer Recommended</td>
+                                    <td>Yes, after two coat of putty</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
                         <!-- item-property-hor .// -->
 
                         <hr>
-                        <!-- <a href="#" class="btn btn-lg btn-primary text-uppercase"> Contact Now</a> -->
-                        <a href="/Contact.php" class="btn btn-lg btn-outline-primary text-uppercase"> <i
-                                class="fas fa-shopping-cart"></i> Contact Now</a>
+                        <a href="#" class="btn btn-lg btn-primary text-uppercase"> Contact Now</a>
+                        <a href="#" class="btn btn-lg btn-outline-primary text-uppercase"> <i
+                                class="fas fa-shopping-cart"></i> Send Message </a>
                     </article> <!-- card-body.// -->
                 </aside> <!-- col.// -->
             </div> <!-- row.// -->
@@ -209,14 +225,11 @@
 
 
     <br><br><br>
-    <article class="bg-secondary mb-3">
+    <article class="bg-secondary mb-3" >
         <div class="card-body text-center" style="background-color:#fc6203;">
-            <h4 class="text-white">Wall Primer </h4>
-            <p class="h5 text-white"> Wall primer is a pulverized acrylic resin-based product in which water gets
-                dispersed and that penetrates better than traditional water-based primer
-                 products available today.
-                 Wall primer is suitable for priming walls, asbestos, brickwork, etc.
-            </p> <br>
+            <h4 class="text-white">Application   </h4>
+            <p class="h5 text-white"> Used on damp surfaces, structure in damp conditions
+                </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us
                     <i class="fa fa-window-restore "></i></a></p>

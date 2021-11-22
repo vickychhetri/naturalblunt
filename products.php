@@ -266,10 +266,15 @@
 try{
 require('Classes/Product.php');
 
-$product[0] = new Product("img/product/acrylic_wall.png ","White Cement Based Acrylic Wall Putty","Specially designed acrylic putty manufactured to offer white smooth finish, strength and durability to heat. This is highly useful for sealing cracks, holes, gaps, joints.","Acrylic-Wall-Putty.php","🖌️","Wall Putty","5","unlimited");
-$product[1] = new Product("img/product/acrylic_wall.png ","White Cement Based Acrylic Wall Putty","Specially designed acrylic putty manufactured to offer white smooth finish, strength and durability to heat. This is highly useful for sealing cracks, holes, gaps, joints.","Acrylic-Wall-Putty.php","🖌️","Wall Putty","5","unlimited");
+$product[0] = new Product("img/product/acrylic_wall.png ","Acrylic Putty","Specially designed acrylic putty manufactured to offer white smooth finish, strength and durability to heat. This is highly useful for sealing cracks, holes, gaps, joints.","Acrylic-Wall-Putty.php","🖌️","Wall Putty","5","unlimited");
+$product[1] = new Product("img/product/WALLPRIMER_01_1.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","🖌️","Primer","5","unlimited");
+$product[2] = new Product("img/product/WallPrimerextscreen.png","Exterior Wall Primer","Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion.","Wall-Primer-Exterior.php","🖌️","Primer","5","unlimited");
+$product[3] = new Product("img/product/SUPER_PLUS_REASONABLE_EMULSION-screen.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","🖌️","Primer","5","unlimited");
+$product[4] = new Product("img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","🖌️","Primer","5","unlimited");
+$product[5] = new Product("img/product/ULTIMATE_SEMI_GLOSS_EULSIONscreen.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","🖌️","Primer","5","unlimited");
+$product[6] = new Product("img/product/primer02screen.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","🖌️","Primer","5","unlimited");
 
- 
+
 }catch(Exception $e){
   echo $e;
 }
@@ -311,14 +316,14 @@ foreach($product as $p) {
                                     <div class="available_line d-flex flex-row justify-content-start">
                                         <div class="available_title" style="text-decoration: none;color:black;">
                                             Available: <span><?php echo $p->get_items();?></span></div>
-                                        <div class="sold_stars ml-auto"> 
-                                        <?php    
+                                        <div class="sold_stars ml-auto">
+                                        <?php
                                         for($i=0;$i<$p->get_star();$i++){
                                         ?>
-                                        <i class="fa fa-star"></i> 
-                                            <?php   
+                                        <i class="fa fa-star"></i>
+                                            <?php
                                             }
-                                        ?>     
+                                        ?>
                                         </div>
                                     </div>
                                     <div class="available_bar"><span style="width:17%"></span></div>
@@ -327,11 +332,11 @@ foreach($product as $p) {
                         </div>
                     </div>
                 </div>
-      
+
             </div>
             <?php
             }
-            ?>  
+            ?>
         </div>
     </div>
 

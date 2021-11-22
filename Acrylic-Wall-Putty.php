@@ -99,7 +99,7 @@
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
                             <div class="item-gallery"> <img src="https://s9.postimg.org/tupxkvfj3/image.jpg"> </div>
-                        </div> 
+                        </div>
                          -->
                         <!-- slider-nav.// -->
                     </article> <!-- gallery-wrap .end// -->
@@ -211,9 +211,8 @@
                         <!-- item-property-hor .// -->
 
                         <hr>
-                        <a href="#" class="btn btn-lg btn-primary text-uppercase"> Contact Now</a>
-                        <a href="#" class="btn btn-lg btn-outline-primary text-uppercase"> <i
-                                class="fas fa-shopping-cart"></i> Send Message </a>
+                        <a href="/Contact.php" class="btn btn-lg btn-outline-primary text-uppercase"> <i
+                                class="fas fa-shopping-cart"></i> Contact Now</a>
                     </article> <!-- card-body.// -->
                 </aside> <!-- col.// -->
             </div> <!-- row.// -->

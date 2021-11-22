@@ -90,7 +90,7 @@
                     <article class="gallery-wrap">
                         <div class="img-big-wrap1">
                             <div>
-                                <a href="#"><img src="img/product/WALLPRIMER_01.jpg"
+                                <a href="#"><img src="img/product/WALSPER SUPERIOR ACRYLIC EMULSION.png"
                                         style="max-width: 100%;width:100%;"></a>
                             </div>
                         </div> <!-- slider-product.// -->
@@ -107,7 +107,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                            WALL PRIMER
+                          WALSPER SUPERIOR ACRYLIC EMULSION
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -120,9 +120,10 @@
                             <dt>Description</dt>
                             <dd>
                                 <p>
-                                    Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water
-                                    dispersion. This product is best suited for interior and exterior surfaces. Wall
-                                    primer is suitable for priming walls, asbestos, brickwork, etc.
+                                  Ecomate is a water-based exterior emulsion formulated with advanced
+                                   ingredients and technology suitable to various climatic conditions. 
+                                   The product is 100% acrylic-based that offers outstanding
+                                   resistance to chalking, cracking and weathering.
                                 </p>
                             </dd>
                         </dl>
@@ -138,57 +139,68 @@
                                     </th>
 
                                     <th>
-                                        VAUES
+                                      WALSPER SUPERIOR ACRYLIC EMULSION
                                     </th>
                                 </tr>
                                 <tr>
-                                    <td>
-                                        Area of Application
-                                    </td>
-                                    <td>
-                                        Interiors, All types of plasters,false ceiling, asbestos, etc.
-                                    </td>
-                                </tr>
-
-                                <tr>
-                                    <td>Packing Available - Ltr.</td>
-                                    <td>1, 4, 10 and 20.</td>
+                                    <td       >Area of Application</td>
+                                    <td  >Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td>Thinner for Dilution of paint</td>
-                                    <td>Water</td>
+                                    <td       >Packing Available - Ltr.</td>
+                                    <td  >1, 4, 10 and 20.</td>
                                 </tr>
                                 <tr>
-                                    <td>Dilution Ratio of &nbsp;paint</td>
-                                    <td>&gt;500 ml/ltr</td>
+                                    <td       >Primer Recommended</td>
+                                    <td  >Yes</td>
                                 </tr>
                                 <tr>
-                                    <td>Touch Dry</td>
-                                    <td>15 Minutes</td>
+                                    <td       >Thinner for Dilution of paint</td>
+                                    <td  >Water</td>
                                 </tr>
                                 <tr>
-                                    <td>Ready for painting</td>
-                                    <td>6 hours</td>
+                                    <td       >Dilution Ratio of &nbsp;paint</td>
+                                    <td  >600 - 650 ml / ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td>Comlete Drying</td>
-                                    <td>7 days</td>
+                                    <td       >No. of Coats for paint</td>
+                                    <td  >Two</td>
                                 </tr>
                                 <tr>
-                                    <td>Finish</td>
-                                    <td>Matt</td>
+                                    <td       >Time gap between primer &amp; 1st. Coat</td>
+                                    <td  >6 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td>Coverage / Ltr. / coat- on smooth plaster</td>
-                                    <td>&gt;150 sft. / Ltr.</td>
+                                    <td       >Time gap between &nbsp;1st. Coat &amp; 2nd. Coat</td>
+                                    <td  >4 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td>Flammable / Flash Point</td>
-                                    <td>Not Flammable</td>
+                                    <td       >Touch Dry</td>
+                                    <td  >20 Minutes</td>
                                 </tr>
                                 <tr>
-                                    <td>Shelf Life in tight container</td>
-                                    <td>1 year</td>
+                                    <td       >Complete Drying</td>
+                                    <td  >7 days</td>
+                                </tr>
+                                <tr>
+                                    <td       >Finish</td>
+                                    <td  >Matt</td>
+                                </tr>
+                                <tr>
+                                    <td >Coverage / Ltr.. - on smooth Primed plaster</td>
+                                    <td  >&gt; 120 sft. / Ltr.</td>
+                                </tr>
+                                <tr>
+                                    <td       >Flammable / Flash Point</td>
+                                    <td  >Not Flammable</td>
+                                </tr>
+                                <tr>
+                                    <td       >Shelf Life in tight container</td>
+                                    <td  >1 year</td>
+                                </tr>
+                                <tr>
+                                    <td       >Shelf Life after application</td>
+                                    <td  >4 years</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
