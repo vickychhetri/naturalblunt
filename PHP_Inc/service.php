@@ -14,7 +14,8 @@
                             <h3>INTERIOR
                                 WALL PAINTS</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                               Browse through our wide range of paints, textures,
+                                patterns and styles to find the one that accentuates your home's beauty
                             </p>
                         </div>
                     </div>
@@ -26,7 +27,8 @@
                             <h3>EXTERIOR
                                 WALL PAINTS</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                               Open your mind to limitless possibilities with
+                                our extensive range of exterior paints and emulsions
                             </p>
                         </div>
                     </div>
@@ -38,7 +40,7 @@
                             <h3>WOOD
                                 COATINGS</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                                 Keep your furniture and wardrobes looking flawless
                             </p>
                         </div>
                     </div>
@@ -50,7 +52,8 @@
                             <h3>METAL
                                 ENAMEL PAINTS</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                                Choose from products designed to make your
+                                 metal trimmings and fittings look as good as new
                             </p>
                         </div>
                     </div>
@@ -62,7 +65,7 @@
                             <h3>PAINT
                                 ANCILLARY</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                              Keep your home protected and looking forever fabulous
                             </p>
                         </div>
                     </div>
@@ -73,7 +76,7 @@
                             </div>
                             <h3>TEXTURE</h3>
                             <p>
-                                Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non
+                                 Open your mind to limitless possibilities with our extensive range.
                             </p>
                         </div>
                     </div>

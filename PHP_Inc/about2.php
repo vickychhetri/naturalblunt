@@ -19,7 +19,7 @@
                                   We have our dealers network across India and we wish to serve
                                   the people of the country.
           </p>
-                            <p style="text-align:justify;color:#1e2021;">
+                            <p style="color:#1e2021;">
 
                             Understanding various paints and their functionalities is
                             as important as handpicking shades for your wall colour paints and furniture
@@ -28,7 +28,7 @@
                             <p style="color:#1e2021;">
                             Paints easily and begin your home journey right here, with us.
                         </p>
-                            <a class="btn" href="/About.php">Learn More</a>
+                            <a class="btn" href="/Contact.php">Contact Us</a>
                         </div>
                     </div>
                 </div>

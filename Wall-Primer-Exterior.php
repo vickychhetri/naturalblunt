@@ -2,13 +2,31 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title> Nature Blunt | Browse through our wide range of Paints, Textures,
-        Patterns and Styles </title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
-    <meta content="Browse through our wide range of paints, textures,
-     patterns and styles to find the one that accentuates your home's beauty" name="description">
+  <meta charset="utf-8">
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+   <!-- Primary Meta Tags -->
+   <title>WALL PRIMER (EXTERIOR)</title>
+   <meta name="title" content="WALL PRIMER (EXTERIOR)">
+   <meta name="description" content="Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water
+   dispersion property that penetrates better than normal water-based primers">
+
+   <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://natureblunt.com/">
+   <meta property="og:title" content="WALL PRIMER ( EXTERIOR)">
+   <meta property="og:description" content="Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water
+   dispersion property that penetrates better than normal water-based primers">
+   <meta property="og:image" content="https://natureblunt.com/img/product/WALL_PRIMER___EXTERIOR_01.png">
+
+   <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="https://natureblunt.com/">
+   <meta property="twitter:title" content="WALL PRIMER (EXTERIOR)">
+   <meta property="twitter:description" content="Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water
+   dispersion property that penetrates better than normal water-based primers">
+   <meta property="twitter:image" content="https://natureblunt.com/img/product/WALL_PRIMER___EXTERIOR_01.png">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">

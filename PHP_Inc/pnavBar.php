@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     <div class="navbar-nav ml-auto">
                         <a href="/" class="nav-item nav-link active">Home</a>
-                        <a href="#" class="nav-item nav-link">About</a>
+                        <a href="About.php" class="nav-item nav-link">About</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Product</a>
                             <div class="dropdown-menu">
@@ -28,11 +28,9 @@
                                 <a href="products.php" class="dropdown-item">VIEW MORE</a>
                             </div>
                         </div>
-                        <a href="#" class="nav-item nav-link">Service</a>
-                        <a href="#" class="nav-item nav-link">Price</a>
-                        <!-- <a href="class.html" class="nav-item nav-link">Class</a> -->
+                        <a href="/Services.php" class="nav-item nav-link">Service</a>
                         <a href="#" class="nav-item nav-link">Manager</a>
-                        <a href="#" class="nav-item nav-link">Reviews</a>
+                        <a href="Reviews.php" class="nav-item nav-link">Reviews</a>
 
                         <a href="Contact.php" class="nav-item nav-link">Contact</a>
                     </div>

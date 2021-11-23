@@ -6,9 +6,30 @@
     <title> Nature Blunt | Browse through our wide range of Paints, Textures,
      Patterns and Styles </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
-    <meta content="Browse through our wide range of paints, textures,
-     patterns and styles to find the one that accentuates your home's beauty" name="description">
+
+     <!-- Primary Meta Tags -->
+     <title>Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles</title>
+     <meta name="title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+     <meta name="description" content="Browse through our wide range of paints, textures,
+          patterns and styles to find the one that accentuates your home's beauty">
+
+     <!-- Open Graph / Facebook -->
+     <meta property="og:type" content="website">
+     <meta property="og:url" content="https://natureblunt.com/">
+     <meta property="og:title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+     <meta property="og:description" content="Browse through our wide range of paints, textures,
+          patterns and styles to find the one that accentuates your home's beauty">
+     <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
+
+     <!-- Twitter -->
+     <meta property="twitter:card" content="summary_large_image">
+     <meta property="twitter:url" content="https://natureblunt.com/">
+     <meta property="twitter:title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+     <meta property="twitter:description" content="Browse through our wide range of paints, textures,
+          patterns and styles to find the one that accentuates your home's beauty">
+     <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
+
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -24,6 +45,7 @@
     <link href="lib/flaticon/font/flaticon.css" rel="stylesheet">
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.map"></script>
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
@@ -81,8 +103,8 @@
     <!-- Discount End -->
 
 
-    <!-- Price Start 
-        
+    <!-- Price Start
+
     Price End -->
 
 

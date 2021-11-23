@@ -2,13 +2,31 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title> Nature Blunt | Browse through our wide range of Paints, Textures,
-        Patterns and Styles </title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
-    <meta content="Browse through our wide range of paints, textures,
-     patterns and styles to find the one that accentuates your home's beauty" name="description">
+  <meta charset="utf-8">
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+   <!-- Primary Meta Tags -->
+   <title>Contact Us</title>
+   <meta name="title" content="Contact Us">
+   <meta name="description" content="Browse through our wide range of paints, textures,
+        patterns and styles to find the one that accentuates your home's beauty">
+
+   <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://natureblunt.com/">
+   <meta property="og:title" content="Contact Us">
+   <meta property="og:description" content="Browse through our wide range of paints, textures,
+        patterns and styles to find the one that accentuates your home's beauty">
+   <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
+
+   <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="https://natureblunt.com/">
+   <meta property="twitter:title" content="Contact Us">
+   <meta property="twitter:description" content="Browse through our wide range of paints, textures,
+        patterns and styles to find the one that accentuates your home's beauty">
+   <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -147,10 +165,10 @@
 
                     <div class="text-center text-md-left">
                         <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();" style="color: white;">Send</a>
-                  
+
                     </div>
                     <div class="status">
-               
+
                     <?php
                         if(isset($_GET["message"])!=null ){
                             if($_GET["message"]=="send"){

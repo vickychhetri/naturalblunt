@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header text-center">
             <p>Awesome Discount</p>
-            <h2>Get <span>30%</span> Discount for all Products</h2>
+            <h2>Get <span>10%</span> Discount for all Products</h2>
         </div>
         <div class="container discount-text">
             <p>
@@ -10,7 +10,7 @@
                 Glossier paint sheens are easier to clean and last longer. Use semi-gloss or gloss paint for your front
                 door.
             </p>
-            <a class="btn">Contact Now</a>
+            <a class="btn" href="/Contact.php">Contact Now</a>
         </div>
     </div>
 </div>

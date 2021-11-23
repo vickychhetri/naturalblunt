@@ -9,8 +9,8 @@
                                 Choose from our an array of awe-inspiring wall decor that our experts have personally curated
                             </p>
                             <div class="hero-btn">
-                                <a class="btn" href="">Products</a>
-                                <a class="btn" href="">Contact Us</a>
+                                <a class="btn" href="products.php">Products</a>
+                                <a class="btn" href="Contact.php">Contact Us</a>
                             </div>
                         </div>
                     </div>

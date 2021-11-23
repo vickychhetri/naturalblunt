@@ -11,7 +11,7 @@
                             <div class="text">
                                 <i class="fa fa-phone-alt"></i>
                                 <h2>+123 456 7890</h2>
-                                <p>For Appointment</p>
+                                <p>For Sales/Support</p>
                             </div>
                         </div>
                     </div>
@@ -28,4 +28,3 @@
                 </div>
             </div>
         </div>
-       

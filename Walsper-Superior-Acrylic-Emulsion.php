@@ -2,13 +2,32 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title> Nature Blunt | Browse through our wide range of Paints, Textures,
-        Patterns and Styles </title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
-    <meta content="Browse through our wide range of paints, textures,
-     patterns and styles to find the one that accentuates your home's beauty" name="description">
+  <meta charset="utf-8">
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+   <!-- Primary Meta Tags -->
+   <title>WALSPER SUPERIOR ACRYLIC EMULSION</title>
+   <meta name="title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+   <meta name="description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+   offers outstanding resistance to chalking, cracking and weathering">
+
+   <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://natureblunt.com/">
+   <meta property="og:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+   <meta property="og:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+   offers outstanding resistance to chalking, cracking and weathering">
+   <meta property="og:image" content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
+
+   <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="https://natureblunt.com/">
+   <meta property="twitter:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+   <meta property="twitter:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+   offers outstanding resistance to chalking, cracking and weathering">
+   <meta property="twitter:image" content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
+
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -90,7 +109,7 @@
                     <article class="gallery-wrap">
                         <div class="img-big-wrap1">
                             <div>
-                                <a href="#"><img src="img/product/WALSPER SUPERIOR ACRYLIC EMULSION.png"
+                                <a href="#"><img src="img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png"
                                         style="max-width: 100%;width:100%;"></a>
                             </div>
                         </div> <!-- slider-product.// -->

@@ -2,13 +2,31 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <title> Nature Blunt | Browse through our wide range of Paints, Textures,
-        Patterns and Styles </title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Template" name="Nature blunt,paints,putty,texture,patterns,styles">
-    <meta content="Browse through our wide range of paints, textures,
-     patterns and styles to find the one that accentuates your home's beauty" name="description">
+  <meta charset="utf-8">
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+   <!-- Primary Meta Tags -->
+   <title>ULTIMATE SEMI GLOSS EULSION</title>
+   <meta name="title" content="ULTIMATE SEMI GLOSS EULSION">
+   <meta name="description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+   for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
+
+   <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://natureblunt.com/">
+   <meta property="og:title" content="ULTIMATE SEMI GLOSS EULSION">
+   <meta property="og:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+   for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
+   <meta property="og:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
+
+   <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="https://natureblunt.com/">
+   <meta property="twitter:title" content="ULTIMATE SEMI GLOSS EULSION">
+   <meta property="twitter:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+   for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
+   <meta property="twitter:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
