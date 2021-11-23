@@ -4,30 +4,32 @@
 <head>
     <meta charset="utf-8">
     <title> Nature Blunt | Browse through our wide range of Paints, Textures,
-     Patterns and Styles </title>
+        Patterns and Styles </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-     <!-- Primary Meta Tags -->
-     <title>Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles</title>
-     <meta name="title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
-     <meta name="description" content="Browse through our wide range of paints, textures,
+    <!-- Primary Meta Tags -->
+    <title>Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles</title>
+    <meta name="title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+    <meta name="description" content="Browse through our wide range of paints, textures,
           patterns and styles to find the one that accentuates your home's beauty">
 
-     <!-- Open Graph / Facebook -->
-     <meta property="og:type" content="website">
-     <meta property="og:url" content="https://natureblunt.com/">
-     <meta property="og:title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
-     <meta property="og:description" content="Browse through our wide range of paints, textures,
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title"
+        content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+    <meta property="og:description" content="Browse through our wide range of paints, textures,
           patterns and styles to find the one that accentuates your home's beauty">
-     <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
+    <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
 
-     <!-- Twitter -->
-     <meta property="twitter:card" content="summary_large_image">
-     <meta property="twitter:url" content="https://natureblunt.com/">
-     <meta property="twitter:title" content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
-     <meta property="twitter:description" content="Browse through our wide range of paints, textures,
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title"
+        content="Nature Blunt | Browse through our wide range of Paints, Textures, Patterns and Styles">
+    <meta property="twitter:description" content="Browse through our wide range of paints, textures,
           patterns and styles to find the one that accentuates your home's beauty">
-     <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
+    <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
 
 
 
@@ -108,13 +110,6 @@
     Price End -->
 
 
-    <!-- Testimonial Start -->
-    <?php
-        include_once('PHP_Inc/testimonial.php');
-        ?>
-    <!-- Testimonial End -->
-
-
     <!-- Team Start -->
     <?php
         include_once('PHP_Inc/team.php');
@@ -126,7 +121,7 @@
     <?php
         include_once('PHP_Inc/blog.php');
         ?>
-       <!-- Blog End -->
+    <!-- Blog End -->
 
 
     <!-- Footer Start -->

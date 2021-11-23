@@ -225,11 +225,11 @@
 
 
     <br><br><br>
-    <article class="bg-secondary mb-3" >
+    <article class="bg-secondary mb-3">
         <div class="card-body text-center" style="background-color:#fc6203;">
-            <h4 class="text-white">Application   </h4>
+            <h4 class="text-white">Application </h4>
             <p class="h5 text-white"> Used on damp surfaces, structure in damp conditions
-                </p> <br>
+            </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us
                     <i class="fa fa-window-restore "></i></a></p>

@@ -2,31 +2,31 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>SUPER PLUS REASONABLE PRIMER</title>
-   <meta name="title" content="SUPER PLUS REASONABLE PRIMER">
-   <meta name="description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
+    <!-- Primary Meta Tags -->
+    <title>SUPER PLUS REASONABLE PRIMER</title>
+    <meta name="title" content="SUPER PLUS REASONABLE PRIMER">
+    <meta name="description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
    comes with quick-drying properties and doesn’t have a strange odour.">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="SUPER PLUS REASONABLE PRIMER">
-   <meta property="og:description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="SUPER PLUS REASONABLE PRIMER">
+    <meta property="og:description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
    comes with quick-drying properties and doesn’t have a strange odour.">
-   <meta property="og:image" content="https://natureblunt.com/img/product/WALLPRIMERSUPER.jpg">
+    <meta property="og:image" content="https://natureblunt.com/img/product/WALLPRIMERSUPER.jpg">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="SUPER PLUS REASONABLE PRIMER">
-   <meta property="twitter:description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="SUPER PLUS REASONABLE PRIMER">
+    <meta property="twitter:description" content="Super plus reasonable Primer and Sealer is a micronized acrylic-based primer in water dispersion. This is an acrylic resin-based primer with water dispersion property that penetrates better than normal water-based primers. This ensures excellent resistance to alkali and also
    comes with quick-drying properties and doesn’t have a strange odour.">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/WALLPRIMERSUPER.jpg">
+    <meta property="twitter:image" content="https://natureblunt.com/img/product/WALLPRIMERSUPER.jpg">
 
 
     <!-- Favicon -->
@@ -126,7 +126,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                      SUPER PLUS REASONABLE PRIMER
+                            SUPER PLUS REASONABLE PRIMER
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -138,13 +138,13 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
-                                Super plus reasonable Primer and Sealer is a
-                                micronized acrylic-based primer in water dispersion.
-                                This is an acrylic resin-based primer with water dispersion
-                                property that penetrates better than normal water-based primers.
-                                This ensures excellent resistance to alkali and also comes with
-                                quick-drying properties and doesn’t have a strange odour.
+                                <p style="text-align:justify;">
+                                    Super plus reasonable Primer and Sealer is a
+                                    micronized acrylic-based primer in water dispersion.
+                                    This is an acrylic resin-based primer with water dispersion
+                                    property that penetrates better than normal water-based primers.
+                                    This ensures excellent resistance to alkali and also comes with
+                                    quick-drying properties and doesn’t have a strange odour.
                                 </p>
                             </dd>
                         </dl>
@@ -160,48 +160,48 @@
                                     </th>
 
                                     <th>
-                                      SUPER PLUS REASONABLE PRIMER
+                                        SUPER PLUS REASONABLE PRIMER
                                     </th>
                                 </tr>
                                 <tr>
-                                    <td  >Area of Application</td>
-                                    <td  >Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td  >Packing Available - Ltr.</td>
-                                    <td  >1, 4, 10 and 20.</td>
+                                    <td>Packing Available - Ltr.</td>
+                                    <td>1, 4, 10 and 20.</td>
                                 </tr>
                                 <tr>
-                                    <td  >Thinner for Dilution of paint</td>
-                                    <td  >Water</td>
+                                    <td>Thinner for Dilution of paint</td>
+                                    <td>Water</td>
                                 </tr>
                                 <tr>
-                                    <td  >Dilution Ratio of &nbsp;paint</td>
-                                    <td  >&gt; 500 ml / ltr.</td>
+                                    <td>Dilution Ratio of &nbsp;paint</td>
+                                    <td>&gt; 500 ml / ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td  >Time gap between primer &amp; 1st. Coat</td>
-                                    <td  >6 hrs.</td>
+                                    <td>Time gap between primer &amp; 1st. Coat</td>
+                                    <td>6 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td  >Complete Drying</td>
-                                    <td  >7 days</td>
+                                    <td>Complete Drying</td>
+                                    <td>7 days</td>
                                 </tr>
                                 <tr>
-                                    <td  >Finish</td>
-                                    <td  >Matt</td>
+                                    <td>Finish</td>
+                                    <td>Matt</td>
                                 </tr>
                                 <tr>
-                                    <td  >Coverabe / Ltr. / Coat - on smooth plaster</td>
-                                    <td  >&gt; 150 sft. / Ltr.</td>
+                                    <td>Coverabe / Ltr. / Coat - on smooth plaster</td>
+                                    <td>&gt; 150 sft. / Ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td  >Flammable / Flash Point</td>
-                                    <td  >Not Flammable</td>
+                                    <td>Flammable / Flash Point</td>
+                                    <td>Not Flammable</td>
                                 </tr>
                                 <tr>
-                                    <td  >Shelf Life in tight container</td>
-                                    <td  >1 year</td>
+                                    <td>Shelf Life in tight container</td>
+                                    <td>1 year</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -225,8 +225,8 @@
     <article class="bg-secondary mb-3">
         <div class="card-body text-center" style="background-color:#fc6203;">
             <h4 class="text-white">SUPER PLUS REASONABLE PRIMER </h4>
-            <p class="h5 text-white">   This ensures excellent resistance to alkali and also comes with
-              quick-drying properties and doesn’t have a strange odour.
+            <p class="h5 text-white"> This ensures excellent resistance to alkali and also comes with
+                quick-drying properties and doesn’t have a strange odour.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

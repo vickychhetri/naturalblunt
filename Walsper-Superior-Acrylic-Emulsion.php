@@ -2,31 +2,33 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>WALSPER SUPERIOR ACRYLIC EMULSION</title>
-   <meta name="title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
-   <meta name="description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+    <!-- Primary Meta Tags -->
+    <title>WALSPER SUPERIOR ACRYLIC EMULSION</title>
+    <meta name="title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+    <meta name="description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
    offers outstanding resistance to chalking, cracking and weathering">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
-   <meta property="og:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+    <meta property="og:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
    offers outstanding resistance to chalking, cracking and weathering">
-   <meta property="og:image" content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
+    <meta property="og:image"
+        content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
-   <meta property="twitter:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="WALSPER SUPERIOR ACRYLIC EMULSION">
+    <meta property="twitter:description" content="Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions.  The product is 100% acrylic-based that
    offers outstanding resistance to chalking, cracking and weathering">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
+    <meta property="twitter:image"
+        content="https://natureblunt.com/img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png">
 
 
     <!-- Favicon -->
@@ -126,7 +128,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                          WALSPER SUPERIOR ACRYLIC EMULSION
+                            WALSPER SUPERIOR ACRYLIC EMULSION
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -138,11 +140,11 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
-                                  Ecomate is a water-based exterior emulsion formulated with advanced
-                                   ingredients and technology suitable to various climatic conditions. 
-                                   The product is 100% acrylic-based that offers outstanding
-                                   resistance to chalking, cracking and weathering.
+                                <p style="text-align:justify;">
+                                    Ecomate is a water-based exterior emulsion formulated with advanced
+                                    ingredients and technology suitable to various climatic conditions. 
+                                    The product is 100% acrylic-based that offers outstanding
+                                    resistance to chalking, cracking and weathering.
                                 </p>
                             </dd>
                         </dl>
@@ -158,68 +160,68 @@
                                     </th>
 
                                     <th>
-                                      WALSPER SUPERIOR ACRYLIC EMULSION
+                                        WALSPER SUPERIOR ACRYLIC EMULSION
                                     </th>
                                 </tr>
                                 <tr>
-                                    <td       >Area of Application</td>
-                                    <td  >Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td       >Packing Available - Ltr.</td>
-                                    <td  >1, 4, 10 and 20.</td>
+                                    <td>Packing Available - Ltr.</td>
+                                    <td>1, 4, 10 and 20.</td>
                                 </tr>
                                 <tr>
-                                    <td       >Primer Recommended</td>
-                                    <td  >Yes</td>
+                                    <td>Primer Recommended</td>
+                                    <td>Yes</td>
                                 </tr>
                                 <tr>
-                                    <td       >Thinner for Dilution of paint</td>
-                                    <td  >Water</td>
+                                    <td>Thinner for Dilution of paint</td>
+                                    <td>Water</td>
                                 </tr>
                                 <tr>
-                                    <td       >Dilution Ratio of &nbsp;paint</td>
-                                    <td  >600 - 650 ml / ltr.</td>
+                                    <td>Dilution Ratio of &nbsp;paint</td>
+                                    <td>600 - 650 ml / ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td       >No. of Coats for paint</td>
-                                    <td  >Two</td>
+                                    <td>No. of Coats for paint</td>
+                                    <td>Two</td>
                                 </tr>
                                 <tr>
-                                    <td       >Time gap between primer &amp; 1st. Coat</td>
-                                    <td  >6 hrs.</td>
+                                    <td>Time gap between primer &amp; 1st. Coat</td>
+                                    <td>6 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td       >Time gap between &nbsp;1st. Coat &amp; 2nd. Coat</td>
-                                    <td  >4 hrs.</td>
+                                    <td>Time gap between &nbsp;1st. Coat &amp; 2nd. Coat</td>
+                                    <td>4 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td       >Touch Dry</td>
-                                    <td  >20 Minutes</td>
+                                    <td>Touch Dry</td>
+                                    <td>20 Minutes</td>
                                 </tr>
                                 <tr>
-                                    <td       >Complete Drying</td>
-                                    <td  >7 days</td>
+                                    <td>Complete Drying</td>
+                                    <td>7 days</td>
                                 </tr>
                                 <tr>
-                                    <td       >Finish</td>
-                                    <td  >Matt</td>
+                                    <td>Finish</td>
+                                    <td>Matt</td>
                                 </tr>
                                 <tr>
-                                    <td >Coverage / Ltr.. - on smooth Primed plaster</td>
-                                    <td  >&gt; 120 sft. / Ltr.</td>
+                                    <td>Coverage / Ltr.. - on smooth Primed plaster</td>
+                                    <td>&gt; 120 sft. / Ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td       >Flammable / Flash Point</td>
-                                    <td  >Not Flammable</td>
+                                    <td>Flammable / Flash Point</td>
+                                    <td>Not Flammable</td>
                                 </tr>
                                 <tr>
-                                    <td       >Shelf Life in tight container</td>
-                                    <td  >1 year</td>
+                                    <td>Shelf Life in tight container</td>
+                                    <td>1 year</td>
                                 </tr>
                                 <tr>
-                                    <td       >Shelf Life after application</td>
-                                    <td  >4 years</td>
+                                    <td>Shelf Life after application</td>
+                                    <td>4 years</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -245,8 +247,8 @@
             <h4 class="text-white">Wall Primer </h4>
             <p class="h5 text-white"> Wall primer is a pulverized acrylic resin-based product in which water gets
                 dispersed and that penetrates better than traditional water-based primer
-                 products available today.
-                 Wall primer is suitable for priming walls, asbestos, brickwork, etc.
+                products available today.
+                Wall primer is suitable for priming walls, asbestos, brickwork, etc.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

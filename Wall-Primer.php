@@ -2,31 +2,31 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>WALL PRIMER</title>
-   <meta name="title" content="WALL PRIMER">
-   <meta name="description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
+    <!-- Primary Meta Tags -->
+    <title>WALL PRIMER</title>
+    <meta name="title" content="WALL PRIMER">
+    <meta name="description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
    Wall primer is suitable for priming walls, asbestos, brickwork, etc.">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="WALL PRIMER">
-   <meta property="og:description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="WALL PRIMER">
+    <meta property="og:description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
    Wall primer is suitable for priming walls, asbestos, brickwork, etc.">
-   <meta property="og:image" content="https://natureblunt.com/img/product/WALLPRIMER_01.jpg">
+    <meta property="og:image" content="https://natureblunt.com/img/product/WALLPRIMER_01.jpg">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="WALL PRIMER">
-   <meta property="twitter:description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="WALL PRIMER">
+    <meta property="twitter:description" content="Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces.
    Wall primer is suitable for priming walls, asbestos, brickwork, etc.">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/WALLPRIMER_01.jpg">
+    <meta property="twitter:image" content="https://natureblunt.com/img/product/WALLPRIMER_01.jpg">
 
 
     <!-- Favicon -->
@@ -138,7 +138,7 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
+                                <p style="text-align:justify;">
                                     Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water
                                     dispersion. This product is best suited for interior and exterior surfaces. Wall
                                     primer is suitable for priming walls, asbestos, brickwork, etc.
@@ -233,8 +233,8 @@
             <h4 class="text-white">Wall Primer </h4>
             <p class="h5 text-white"> Wall primer is a pulverized acrylic resin-based product in which water gets
                 dispersed and that penetrates better than traditional water-based primer
-                 products available today.
-                 Wall primer is suitable for priming walls, asbestos, brickwork, etc.
+                products available today.
+                Wall primer is suitable for priming walls, asbestos, brickwork, etc.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

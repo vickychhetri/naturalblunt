@@ -2,31 +2,31 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>ULTIMATE SEMI GLOSS EULSION</title>
-   <meta name="title" content="ULTIMATE SEMI GLOSS EULSION">
-   <meta name="description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+    <!-- Primary Meta Tags -->
+    <title>ULTIMATE SEMI GLOSS EULSION</title>
+    <meta name="title" content="ULTIMATE SEMI GLOSS EULSION">
+    <meta name="description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
    for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="ULTIMATE SEMI GLOSS EULSION">
-   <meta property="og:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="ULTIMATE SEMI GLOSS EULSION">
+    <meta property="og:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
    for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
-   <meta property="og:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
+    <meta property="og:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="ULTIMATE SEMI GLOSS EULSION">
-   <meta property="twitter:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="ULTIMATE SEMI GLOSS EULSION">
+    <meta property="twitter:description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
    for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
+    <meta property="twitter:image" content="https://natureblunt.com/img/product/ULTIMATE_SEMI_GLOSS_EULSION.png">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -125,7 +125,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                          ULTIMATE SEMI GLOSS EULSION
+                            ULTIMATE SEMI GLOSS EULSION
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -137,11 +137,12 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
-                              Techno Protect Plus High-Quality Exterior Wall
-                               Latex Paint is water-based, 100% pure acrylic resin emulsion paint. 
-A new generation of high-grade wall paint, refined by the perfect combination of the
-odourless new technology and film-function for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading. 
+                                <p style="text-align:justify;">
+                                    Techno Protect Plus High-Quality Exterior Wall
+                                    Latex Paint is water-based, 100% pure acrylic resin emulsion paint. 
+                                    A new generation of high-grade wall paint, refined by the perfect combination of the
+                                    odourless new technology and film-function for a long time.It is also resistant to
+                                    alkali, chalking, peeling and excessive colour fading. 
 
                                 </p>
                             </dd>
@@ -158,73 +159,73 @@ odourless new technology and film-function for a long time.It is also resistant 
                                     </th>
 
                                     <th>
-                                      ULTIMATE SEMI GLOSS EULSION
+                                        ULTIMATE SEMI GLOSS EULSION
                                     </th>
                                 </tr>
 
                                 <tr>
-                                    <td     >Area of Application</td>
-                                    <td      >Interiors, Exteriors, All types of plasters, false ceiling, asbestos, etc.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors, Exteriors, All types of plasters, false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td     >Packing Available - Ltr.</td>
-                                    <td      >1, 4, 10 and 20</td>
+                                    <td>Packing Available - Ltr.</td>
+                                    <td>1, 4, 10 and 20</td>
                                 </tr>
                                 <tr>
-                                    <td     >Primer Recommended</td>
-                                    <td      >Penetrating primer</td>
+                                    <td>Primer Recommended</td>
+                                    <td>Penetrating primer</td>
                                 </tr>
                                 <tr>
-                                    <td     >Thinner for Dilution of paint</td>
-                                    <td      >Water</td>
+                                    <td>Thinner for Dilution of paint</td>
+                                    <td>Water</td>
                                 </tr>
                                 <tr>
-                                    <td     >Dilution Ratio of paint</td>
-                                    <td      >400-450 mL/Ltr</td>
+                                    <td>Dilution Ratio of paint</td>
+                                    <td>400-450 mL/Ltr</td>
                                 </tr>
                                 <tr>
-                                    <td     ><strong>Elongation (with 20 DFT)</strong></td>
-                                    <td      ><strong>200-300%</strong></td>
+                                    <td><strong>Elongation (with 20 DFT)</strong></td>
+                                    <td><strong>200-300%</strong></td>
                                 </tr>
                                 <tr>
-                                    <td     >No. of Coats for paint</td>
-                                    <td      >Two</td>
+                                    <td>No. of Coats for paint</td>
+                                    <td>Two</td>
                                 </tr>
                                 <tr>
-                                    <td     >The time gap between primer &amp; 1st. Coat</td>
-                                    <td      >6 h</td>
+                                    <td>The time gap between primer &amp; 1st. Coat</td>
+                                    <td>6 h</td>
                                 </tr>
                                 <tr>
-                                    <td     >The time gap between 1st. Coat &amp; 2nd. Coat</td>
-                                    <td      >4h</td>
+                                    <td>The time gap between 1st. Coat &amp; 2nd. Coat</td>
+                                    <td>4h</td>
                                 </tr>
                                 <tr>
-                                    <td     >Touch Dry</td>
-                                    <td      >20 mins</td>
+                                    <td>Touch Dry</td>
+                                    <td>20 mins</td>
                                 </tr>
                                 <tr>
-                                    <td     >Complete Drying</td>
-                                    <td      >7 days</td>
+                                    <td>Complete Drying</td>
+                                    <td>7 days</td>
                                 </tr>
                                 <tr>
-                                    <td     >Finish</td>
-                                    <td      >smooth</td>
+                                    <td>Finish</td>
+                                    <td>smooth</td>
                                 </tr>
                                 <tr>
-                                    <td     >Coverage / Ltr. - on smooth Primed plaster</td>
-                                    <td      >Up to 120 sft/Ltr</td>
+                                    <td>Coverage / Ltr. - on smooth Primed plaster</td>
+                                    <td>Up to 120 sft/Ltr</td>
                                 </tr>
                                 <tr>
-                                    <td     >Flammable / Flash Point</td>
-                                    <td      >Non-flammable</td>
+                                    <td>Flammable / Flash Point</td>
+                                    <td>Non-flammable</td>
                                 </tr>
                                 <tr>
-                                    <td     >Shelf Life in a tight container</td>
-                                    <td      >1 yr</td>
+                                    <td>Shelf Life in a tight container</td>
+                                    <td>1 yr</td>
                                 </tr>
                                 <tr>
-                                    <td     >Life After Application</td>
-                                    <td      >10 years (With Bio wash and penetrating primer)</td>
+                                    <td>Life After Application</td>
+                                    <td>10 years (With Bio wash and penetrating primer)</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -249,7 +250,8 @@ odourless new technology and film-function for a long time.It is also resistant 
         <div class="card-body text-center" style="background-color:#fc6203;">
             <h4 class="text-white">ULTIMATE SEMI GLOSS EULSION </h4>
             <p class="h5 text-white">
-APPLICATION: Apply to the new coating or the old wall refurbishment of the residential and commercial space.
+                APPLICATION: Apply to the new coating or the old wall refurbishment of the residential and commercial
+                space.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

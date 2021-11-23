@@ -2,40 +2,42 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>SUPER PLUS REASONABLE EMULSION</title>
-   <meta name="title" content="SUPER PLUS REASONABLE EMULSION">
-   <meta name="description" content="Interior Flexible Latex paint has good flexibility and an
+    <!-- Primary Meta Tags -->
+    <title>SUPER PLUS REASONABLE EMULSION</title>
+    <meta name="title" content="SUPER PLUS REASONABLE EMULSION">
+    <meta name="description" content="Interior Flexible Latex paint has good flexibility and an
    attractive semi-gloss finish in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.
      The system also allows water vapour to pass fro the structure to the atmosphere but will
       not allow water ingress
    due to water ingress due to the water beading property of the polymer.">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="SUPER PLUS REASONABLE EMULSION">
-   <meta property="og:description" content="Interior Flexible Latex paint has good flexibility and an
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="SUPER PLUS REASONABLE EMULSION">
+    <meta property="og:description" content="Interior Flexible Latex paint has good flexibility and an
    attractive semi-gloss finish in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.
      The system also allows water vapour to pass fro the structure to the atmosphere but will
       not allow water ingress
    due to water ingress due to the water beading property of the polymer.">
-   <meta property="og:image" content="https://natureblunt.com/img/product/SUPER_PLUS_REASONABLE_EMULSION-removebg-preview.png">
+    <meta property="og:image"
+        content="https://natureblunt.com/img/product/SUPER_PLUS_REASONABLE_EMULSION-removebg-preview.png">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="SUPER PLUS REASONABLE EMULSION">
-   <meta property="twitter:description" content="Interior Flexible Latex paint has good flexibility and an
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="SUPER PLUS REASONABLE EMULSION">
+    <meta property="twitter:description" content="Interior Flexible Latex paint has good flexibility and an
    attractive semi-gloss finish in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.
      The system also allows water vapour to pass fro the structure to the atmosphere but will
       not allow water ingress
    due to water ingress due to the water beading property of the polymer.">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/SUPER_PLUS_REASONABLE_EMULSION-removebg-preview.png">
+    <meta property="twitter:image"
+        content="https://natureblunt.com/img/product/SUPER_PLUS_REASONABLE_EMULSION-removebg-preview.png">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -134,7 +136,7 @@
                 <aside class="col-sm-7">
                     <article class="card-body p-5">
                         <h3 class="title mb-3" style="font-weight: bold;">
-                          SUPER PLUS REASONABLE EMULSION
+                            SUPER PLUS REASONABLE EMULSION
                         </h3>
 
                         <p class="price-detail-wrap">
@@ -146,11 +148,13 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
-                                Interior Flexible Latex paint has good flexibility and an attractive semi-gloss finish
-                                in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.
-                                 The system also allows water vapour to pass fro the structure to the atmosphere but will not allow water
-                                ingress due to water ingress due to the water beading property of the polymer.
+                                <p style="text-align:justify;">
+                                    Interior Flexible Latex paint has good flexibility and an attractive semi-gloss
+                                    finish
+                                    in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.
+                                     The system also allows water vapour to pass fro the structure to the atmosphere but
+                                    will not allow water
+                                    ingress due to water ingress due to the water beading property of the polymer.
 
                                 </p>
                             </dd>
@@ -172,64 +176,64 @@
                                 </tr>
 
                                 <tr>
-                                    <td   >Area of Application</td>
-                                    <td    >Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
+                                    <td>Area of Application</td>
+                                    <td>Interiors, All types of plasters,false ceiling, asbestos, etc.</td>
                                 </tr>
                                 <tr>
-                                    <td   >Packing Available - Ltr.</td>
-                                    <td    >1, 4, 10 and 20.</td>
+                                    <td>Packing Available - Ltr.</td>
+                                    <td>1, 4, 10 and 20.</td>
                                 </tr>
                                 <tr>
-                                    <td   >Primer Recommended</td>
-                                    <td    >Yes</td>
+                                    <td>Primer Recommended</td>
+                                    <td>Yes</td>
                                 </tr>
                                 <tr>
-                                    <td   >Thinner for Dilution of paint</td>
-                                    <td    >Water</td>
+                                    <td>Thinner for Dilution of paint</td>
+                                    <td>Water</td>
                                 </tr>
                                 <tr>
-                                    <td   >Dilution Ratio of &nbsp;paint</td>
-                                    <td    >600 - 650 ml / ltr.</td>
+                                    <td>Dilution Ratio of &nbsp;paint</td>
+                                    <td>600 - 650 ml / ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td   >No. of Coats for paint</td>
-                                    <td    >Two</td>
+                                    <td>No. of Coats for paint</td>
+                                    <td>Two</td>
                                 </tr>
                                 <tr>
-                                    <td   >Time gap between primer &amp; 1st. Coat</td>
-                                    <td    >6 hrs.</td>
+                                    <td>Time gap between primer &amp; 1st. Coat</td>
+                                    <td>6 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td   >Time gap between &nbsp;1st. Coat &amp; 2nd. Coat</td>
-                                    <td    >4 hrs.</td>
+                                    <td>Time gap between &nbsp;1st. Coat &amp; 2nd. Coat</td>
+                                    <td>4 hrs.</td>
                                 </tr>
                                 <tr>
-                                    <td   >Touch Dry</td>
-                                    <td    >20 Minutes</td>
+                                    <td>Touch Dry</td>
+                                    <td>20 Minutes</td>
                                 </tr>
                                 <tr>
-                                    <td   >Complete Drying</td>
-                                    <td    >7 days</td>
+                                    <td>Complete Drying</td>
+                                    <td>7 days</td>
                                 </tr>
                                 <tr>
-                                    <td   >Finish</td>
-                                    <td    >Slightly Shines</td>
+                                    <td>Finish</td>
+                                    <td>Slightly Shines</td>
                                 </tr>
                                 <tr>
-                                    <td >Coverage / Ltr.. - on smooth Primed plaster</td>
-                                    <td    >&gt; 90 sft. / Ltr.</td>
+                                    <td>Coverage / Ltr.. - on smooth Primed plaster</td>
+                                    <td>&gt; 90 sft. / Ltr.</td>
                                 </tr>
                                 <tr>
-                                    <td   >Flammable / Flash Point</td>
-                                    <td    >Not Flammable</td>
+                                    <td>Flammable / Flash Point</td>
+                                    <td>Not Flammable</td>
                                 </tr>
                                 <tr>
-                                    <td   >Shelf Life in tight container</td>
-                                    <td    >1 year</td>
+                                    <td>Shelf Life in tight container</td>
+                                    <td>1 year</td>
                                 </tr>
                                 <tr>
-                                    <td   >Shelf Life after application</td>
-                                    <td    >4 - 5 years</td>
+                                    <td>Shelf Life after application</td>
+                                    <td>4 - 5 years</td>
                                 </tr>
                             </table>
                         </dl> <!-- item-property-hor .// -->
@@ -254,10 +258,10 @@
         <div class="card-body text-center" style="background-color:#fc6203;">
             <h4 class="text-white"> SUPER PLUS REASONABLE EMULSION </h4>
             <p class="h5 text-white">
-               The system also allows water vapour to pass fro the structure to the atmosphere but will not allow water
-               ingress due to water ingress due to the water beading property of the polymer.
-               The product provides exceptional adhesion and moisture resistance from cracking,
-               peeling and highly compact, resistant to dust pick-up and is germ proof.
+                The system also allows water vapour to pass fro the structure to the atmosphere but will not allow water
+                ingress due to water ingress due to the water beading property of the polymer.
+                The product provides exceptional adhesion and moisture resistance from cracking,
+                peeling and highly compact, resistant to dust pick-up and is germ proof.
             </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us

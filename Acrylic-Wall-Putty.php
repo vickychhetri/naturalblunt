@@ -2,34 +2,35 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>White Cement Based Acrylic Wall Putty</title>
-   <meta name="title" content="White Cement Based Acrylic Wall Putty">
-   <meta name="description" content="Specially designed acrylic putty
+    <!-- Primary Meta Tags -->
+    <title>White Cement Based Acrylic Wall Putty</title>
+    <meta name="title" content="White Cement Based Acrylic Wall Putty">
+    <meta name="description" content="Specially designed acrylic putty
     manufactured to offer white smooth finish, strength and durability to heat.
      This is highly useful for sealing cracks, holes, gaps, joints.">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="White Cement Based Acrylic Wall Putty">
-   <meta property="og:description" content="Specially designed acrylic putty
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="White Cement Based Acrylic Wall Putty">
+    <meta property="og:description" content="Specially designed acrylic putty
     manufactured to offer white smooth finish, strength and durability to heat.
      This is highly useful for sealing cracks, holes, gaps, joints.">
-   <meta property="og:image" content="https://natureblunt.com/img/product/white_cement_based_acrylic_wall_putty.jpg">
+    <meta property="og:image" content="https://natureblunt.com/img/product/white_cement_based_acrylic_wall_putty.jpg">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="White Cement Based Acrylic Wall Putty">
-   <meta property="twitter:description" content="Specially designed acrylic putty
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="White Cement Based Acrylic Wall Putty">
+    <meta property="twitter:description" content="Specially designed acrylic putty
     manufactured to offer white smooth finish, strength and durability to heat.
      This is highly useful for sealing cracks, holes, gaps, joints.">
-   <meta property="twitter:image" content="https://natureblunt.com/img/product/white_cement_based_acrylic_wall_putty.jpg">
+    <meta property="twitter:image"
+        content="https://natureblunt.com/img/product/white_cement_based_acrylic_wall_putty.jpg">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -139,7 +140,7 @@
                         <dl class="item-property">
                             <dt>Description</dt>
                             <dd>
-                                <p>
+                                <p style="text-align:justify;">
                                     Specially designed acrylic putty manufactured to offer white smooth finish, strength
                                     and durability to heat. This is highly useful for sealing cracks, holes, gaps,
                                     joints.
@@ -245,11 +246,11 @@
 
 
     <br><br><br>
-    <article class="bg-secondary mb-3" >
+    <article class="bg-secondary mb-3">
         <div class="card-body text-center" style="background-color:#fc6203;">
-            <h4 class="text-white">Application   </h4>
+            <h4 class="text-white">Application </h4>
             <p class="h5 text-white"> Used on damp surfaces, structure in damp conditions
-                </p> <br>
+            </p> <br>
             <p><a class="btn btn-warning" target="_blank" href="Contact.php">
                     Contact us
                     <i class="fa fa-window-restore "></i></a></p>

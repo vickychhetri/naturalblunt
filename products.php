@@ -2,31 +2,31 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-   <!-- Primary Meta Tags -->
-   <title>Products</title>
-   <meta name="title" content="Products">
-   <meta name="description" content="Browse through our wide range of paints, textures,
+    <!-- Primary Meta Tags -->
+    <title>Products</title>
+    <meta name="title" content="Products">
+    <meta name="description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
 
-   <!-- Open Graph / Facebook -->
-   <meta property="og:type" content="website">
-   <meta property="og:url" content="https://natureblunt.com/">
-   <meta property="og:title" content="Products">
-   <meta property="og:description" content="Browse through our wide range of paints, textures,
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://natureblunt.com/">
+    <meta property="og:title" content="Products">
+    <meta property="og:description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
-   <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
+    <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
 
-   <!-- Twitter -->
-   <meta property="twitter:card" content="summary_large_image">
-   <meta property="twitter:url" content="https://natureblunt.com/">
-   <meta property="twitter:title" content="Products">
-   <meta property="twitter:description" content="Browse through our wide range of paints, textures,
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://natureblunt.com/">
+    <meta property="twitter:title" content="Products">
+    <meta property="twitter:description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
-   <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
+    <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
 
 
     <!-- Favicon -->
@@ -315,19 +315,20 @@ foreach($product as $p) {
                         <div class=" bbb_deals_item">
                             <div class="bbb_deals_image">
                                 <a href="/<?php echo $p->get_link();?>"> <img src="<?php echo $p->get_image();?>"
-                                        alt="<?php echo $p->get_name();?>"
-                                        style="height:250px;max-width:100%;" /> </a>
+                                        alt="<?php echo $p->get_name();?>" style="height:250px;max-width:100%;" /> </a>
                             </div>
                             <div class="bbb_deals_content">
                                 <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
                                     <div class="bbb_deals_item_category"><a href="/<?php echo $p->get_link();?>"
-                                            style="text-decoration: none;color:black;"><?php echo $p->get_category();?></a></div>
+                                            style="text-decoration: none;color:black;"><?php echo $p->get_category();?></a>
+                                    </div>
                                     <div class="bbb_deals_item_price_a ml-auto"><strike>Low Quality</strike></div>
                                 </div>
                                 <div class="bbb_deals_info_line d-flex flex-row justify-content-start">
                                     <div class="bbb_deals_item_name">
-                                        <a href="/<?php echo $p->get_link();?>" style="text-decoration: none;color:black;">
-                                        <?php echo $p->get_name();?></a>
+                                        <a href="/<?php echo $p->get_link();?>"
+                                            style="text-decoration: none;color:black;">
+                                            <?php echo $p->get_name();?></a>
                                     </div>
                                     <div class="bbb_deals_item_price ml-auto">High Quality</div>
                                 </div>
@@ -336,10 +337,10 @@ foreach($product as $p) {
                                         <div class="available_title" style="text-decoration: none;color:black;">
                                             Available: <span><?php echo $p->get_items();?></span></div>
                                         <div class="sold_stars ml-auto">
-                                        <?php
+                                            <?php
                                         for($i=0;$i<$p->get_star();$i++){
                                         ?>
-                                        <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
                                             <?php
                                             }
                                         ?>

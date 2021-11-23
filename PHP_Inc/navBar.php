@@ -15,8 +15,6 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Product</a>
                             <div class="dropdown-menu">
-                                <!-- <a href="#" class="dropdown-item">Interior</a>
-                                <a href="#" class="dropdown-item">Exterior</a> -->
                                 <a href="/Acrylic-Wall-Putty.php" class="dropdown-item">WALL PUTTY</a>
                                 <a href="/Wall-Primer.php" class="dropdown-item">WALL PRIMER</a>
                                   <a href="/Wall-Primer-Exterior.php" class="dropdown-item">WALL PRIMER ( EXTERIOR)</a>
@@ -30,9 +28,6 @@
                             </div>
                         </div>
                       <a href="/Services.php" class="nav-item nav-link">Service</a>
-                        <a href="#" class="nav-item nav-link">Manager</a>
-                        <a href="Reviews.php" class="nav-item nav-link">Reviews</a>
-
                         <a href="Contact.php" class="nav-item nav-link">Contact</a>
                     </div>
                 </div>
