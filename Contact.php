@@ -188,15 +188,16 @@
                 <div class="col-md-3 text-center">
                     <ul class="list-unstyled mb-0">
                         <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                            <p>Punjab, PB 144009, India.</p>
+                            <!-- <p>Punjab, PB 144009, India.</p> -->
+                            <p> H.O Truserv Walsper Vtyle Co. 9563, Dr.Tarbert Drive, Elkgrove CA 95758-4478 USA</p>
                         </li>
 
                         <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                            <p>+ 91 9780553734</p>
+                            <p>+91 9041458324</p>
                         </li>
 
                         <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                            <p>contact@natureblunt.com</p>
+                            <p>info@natureblunt.com</p>
                         </li>
                     </ul>
                 </div>

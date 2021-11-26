@@ -5,12 +5,12 @@
                         <div class="top-bar-left">
                             <div class="text">
                                 <i class="far fa-clock"></i>
-                                <h2>8:00 - 9:00</h2>
-                                <p>Mon - Fri</p>
+                                <h2>9:00 AM - 8:00 PM</h2>
+                                <p>Mon - Sat</p>
                             </div>
                             <div class="text">
                                 <i class="fa fa-phone-alt"></i>
-                                <h2>+123 456 7890</h2>
+                                <h2>+91 9041458324</h2>
                                 <p>For Sales/Support</p>
                             </div>
                         </div>

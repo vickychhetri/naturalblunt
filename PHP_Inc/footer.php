@@ -3,10 +3,10 @@
             <div class="container">
                 <div class="footer-info">
                     <a href="index.html" class="footer-logo">Walsper.</span></a>
-                    <h3>123 Street, Guru Nanak Pura West Jalandhar India.</h3>
+                    <h3>B.O Ajit Nagar, Opp. Trishul Mahadev Mandir, Damoria Pull , Jalandhar , Punjab , India 144001.</h3>
                     <div class="footer-menu">
-                        <p>+012 345 67890</p>
-                        <p>info@example.com</p>
+                        <p>+91 9041458324</p>
+                        <p>info@natureblunt.com</p>
                     </div>
                     <div class="footer-social">
                         <a href=""><i class="fab fa-twitter"></i></a>
@@ -20,7 +20,7 @@
             <div class="container copyright">
                 <div class="row">
                     <div class="col-md-6">
-                        <p>&copy; <a href="#">Walsper </a>, All Right Reserved.</p>
+                        <p>&copy; <a href="https://natureblunt.com/">Walsper </a>, All Right Reserved.</p>
                     </div>
                     <div class="col-md-6">
                         <p>Designed By <a href="https://natureblunt.com/">Walsper</a></p>

@@ -9,8 +9,8 @@ if(isset( $_POST['subject']))
 $subject = $_POST['subject'];
 
 $from="info@natureblunt.com";
-$content="From: $from \n Email: $from \n Message: $message";
-$recipient = $email;
+$content="From: $name \n Email: $email \n Message: $message";
+$recipient = $from;
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $content, $mailheader) or die("Error!");
 header("Location:Contact.php?message=send");
