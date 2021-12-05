@@ -10,7 +10,7 @@
                             </div>
                             <div class="text">
                                 <i class="fa fa-phone-alt"></i>
-                                <h2>+91 9041458324</h2>
+                                <h2><a href="tel:+919041458324" style="color: white;">+919041458324</a></h2>
                                 <p>For Sales/Support</p>
                             </div>
                         </div>

@@ -78,6 +78,9 @@
         cursor: zoom-in;
     }
     </style>
+        <?php
+        include_once('PHP_Inc/commonHeader.php');
+        ?>
 </head>
 
 <body>
@@ -106,9 +109,10 @@
                     <h2> MISSION </h2>
                     <hr />
                     <p style="text-align:justify;color:#1e2021;">
-                        The mission of the company is to provide best, high quality products to each and every
-                        households of the nation i.e we wish to paint it from east to west and north
-                        to south and satisfy each individual who uses walsper products.
+                        The mission of the company is to provide best, high quality 
+                        products to each and every
+                        Household of the nation i.e we wish to paint it from east to west and north
+                        to south and satisfy each individual who uses wallsper products.
                     </p>
 
                 </div>
@@ -116,9 +120,12 @@
                     <h2>VISION </h2>
                     <hr />
                     <p style="text-align:justify;color:#1e2021;">
-                        Our vision is to make life long bound with our dealers and customers and provide the best
-                        sservices across india.we believe in make in india and vocal for local and empowering the people
-                        of the country ,hence giving a bullish growth to the economy . Our love for the people of the
+                        Our vision is to make life long hand with our dealers and customers
+                         and provide the best
+                        sservices across india. We believe in make in india and 
+                        vocal for local and empowering the people
+                        of the country ,hence giving a bullish growth to the economy . 
+                        Our love for the people of the
                         country
                         is unbiased and hence we want to make their lives colourful and their homes beautiful.
                     </p>

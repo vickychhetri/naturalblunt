@@ -9,13 +9,13 @@
                     <div class="col-lg-7 col-md-6">
                         <div class="section-header text-left">
                             <p>Learn About Us</p>
-                            <h2>Welcome to Walsper.</h2>
+                            <h2>Welcome to Wallsper.</h2>
                         </div>
                         <div class="about-text">
                             <p style="text-align:justify;color:#1e2021;">
-                                Founded in 1997, Walsper paints is now a leading
-                                 brand among the households Pan India.
-                                  The Company is a subsidiary of truserv walsper vtyle co. Registered in the USA.
+                                Founded in 1997, Wallsper paints is now a leading
+                                 brand among the Household Pan India.
+                                  The Company is a subsidiary of Truserv Walsper Vtyle Co. Registered in the USA.
                                   We have our dealers network across India and we wish to serve
                                   the people of the country.
           </p>

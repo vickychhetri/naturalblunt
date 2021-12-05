@@ -76,6 +76,9 @@
         cursor: zoom-in;
     }
     </style>
+        <?php
+        include_once('PHP_Inc/commonHeader.php');
+        ?>
 </head>
 
 <body>

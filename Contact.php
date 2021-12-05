@@ -76,6 +76,9 @@
         cursor: zoom-in;
     }
     </style>
+        <?php
+        include_once('PHP_Inc/commonHeader.php');
+        ?>
 </head>
 
 <body>
@@ -189,7 +192,7 @@
                     <ul class="list-unstyled mb-0">
                         <li><i class="fas fa-map-marker-alt fa-2x"></i>
                             <!-- <p>Punjab, PB 144009, India.</p> -->
-                            <p> H.O Truserv Walsper Vtyle Co. 9563, Dr.Tarbert Drive, Elkgrove CA 95758-4478 USA</p>
+                            <p> H.O Truserv Wallsper Vtyle Co. 9563, Dr.Tarbert Drive, Elkgrove CA 95758-4478 USA</p>
                         </li>
 
                         <li><i class="fas fa-phone mt-4 fa-2x"></i>

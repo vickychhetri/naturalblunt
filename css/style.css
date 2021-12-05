@@ -212,14 +212,50 @@ a:focus {
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
     background: rgba(256, 256, 256, .1);
-    transition: none;
+    /* transition: none;
+     */
+     -webkit-transition: all 0.3s;
+     -moz-transition: all 0.3s;
+     -ms-transition: all 0.3s;
+     -o-transition: all 0.3s;
+     transition: all 0.3s;
 }
 
 .navbar .dropdown-menu {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #f8f9fa;
+    background: rgb(244,132,4);
+    background: linear-gradient(90deg, rgba(244,132,4,1) 28%, rgba(255,175,0,1) 73%, rgba(238,133,4,1) 96%);    
+  
+   -webkit-transition: all 0.3s;
+   -moz-transition: all 0.3s;
+   -ms-transition: all 0.3s;
+   -o-transition: all 0.3s;
+   transition: all 0.3s;
+
+   max-height: 0;
+   display: block;
+   overflow: hidden;
+   opacity: 0;
+}
+
+/* .dropdown .dropdown-menu {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+
+    max-height: 0;
+    display: block;
+    overflow: hidden;
+    opacity: 0;
+} */
+
+.dropdown.show .dropdown-menu { /* For Bootstrap 4, use .dropdown.show instead of .dropdown.open */
+    max-height: 300px;
+    opacity: 1;
 }
 
 @media (min-width: 992px) {

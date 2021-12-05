@@ -56,12 +56,8 @@
         ?>
 </head>
 
-<body onload="myFunction()">
-<div id="loader"></div>
-
+<body>
     <!-- Top Bar Start -->
-    <div style="display:none;" id="myDiv" class="animate-bottom">
-    </div>
 
     <?php
         include_once('PHP_Inc/topHeader.php');
@@ -72,6 +68,8 @@
     <?php
         include_once('PHP_Inc/navBar.php');
         ?>
+
+
     <!-- Nav Bar End -->
 
 
@@ -134,26 +132,10 @@
     <!-- Footer Start -->
     <?php
         include_once('PHP_Inc/footer.php');
-
         ?>
-
-<!-- Footer End -->
+    <!-- Footer End -->
 
     <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
-    
-<script>
-var myVar;
-
-function myFunction() {
-  myVar = setTimeout(showPage, 3000);
-}
-
-function showPage() {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("myDiv").style.display = "block";
-}
-</script>
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
