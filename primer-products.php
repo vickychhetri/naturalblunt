@@ -50,16 +50,16 @@
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
 
-    html,
-    body {
-        height: 100%
-    }
+    /* html, */
+    /* body { */
+        /* height: 100% */
+    /* } */
 
-    body {
-        display: grid;
+    /* body { */
+        /* display: grid; */
         /* background: #fff;
         font-family: 'Manrope', sans-serif */
-    }
+    /* } */
 
     .mydiv {
         margin-top: 50px;
@@ -289,7 +289,7 @@ try{
 require('Classes/Product.php');
 
 // $product[0] = new Product("img/product/acrylic_wall.png ","Acrylic Putty","Specially designed acrylic putty manufactured to offer white smooth finish, strength and durability to heat. This is highly useful for sealing cracks, holes, gaps, joints.","Acrylic-Wall-Putty.php","⭐","Wall Putty","5","unlimited");
-$product[0] = new Product("img/product/WALLPRIMER_01_1.png","Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","⭐","Primer","5","unlimited");
+$product[0] = new Product("img/product/WALLPRIMER_01_1.png","Multi-Purpose Wall Primer","Multi-purpose Primer and Sealer is a synchronised acrylic-based primer in water dispersion. This product is best suited for interior and exterior surfaces. Wall primer is suitable for priming walls, asbestos, brickwork, etc.","Wall-Primer.php","⭐","Primer","5","unlimited");
 $product[1] = new Product("img/product/WallPrimerextscreen.png","Exterior Wall Primer","Exterior Latex Primer and Sealer is a micronized acrylic-based primer in water dispersion.","Wall-Primer-Exterior.php","⭐","Primer","5","unlimited");
 // $product[3] = new Product("img/product/SUPER_PLUS_REASONABLE_EMULSION-screen.png","Super Plus Reasonable Emulsion","Interior Flexible Latex paint has good flexibility and an attractive semi-gloss finish in Shine Emulsion which is resistant to dirt pick-up from the atmosphere.","Super-plus-Reasonable-Emulsion.php","⭐","Emulsion","5","unlimited");
 // $product[4] = new Product("img/product/WALSPER_SUPERIOR_ACRYLIC_EMULSION-screen.png","Walsper Superior ACRYLIC Emulsion","Ecomate is a water-based exterior emulsion formulated with advanced ingredients and technology suitable to various climatic conditions. ","Walsper-Superior-Acrylic-Emulsion.php","⭐","Emulsion","5","unlimited");

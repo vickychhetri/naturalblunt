@@ -8,10 +8,16 @@ $message = $_POST['message'];
 if(isset( $_POST['subject']))
 $subject = $_POST['subject'];
 
+if(isset( $_POST['mobile']))
+$mobile = $_POST['mobile'];
+
+date_default_timezone_set("Asia/Calcutta");
+$datetime=date("Y/M/d H:i:s");
+
 $from="info@natureblunt.com";
-$content="From: $name \n Email: $email \n Message: $message";
-$recipient = $from;
-$mailheader = "From: $email \r\n";
-mail($recipient, $subject, $content, $mailheader) or die("Error!");
+$recipient = "amtrack01@gmail.com";
+$content=" Subject: $subject \n From: $name \n Email: $email \n Mobile: $mobile  \n Message: $message";
+$mailheader = "From: $from \r\n";
+mail($recipient, $subject."  ".$datetime, $content, $mailheader) or die("Error!");
 header("Location:Contact.php?message=send");
 ?>

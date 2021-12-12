@@ -9,7 +9,7 @@
     <!-- Primary Meta Tags -->
     <title>ULTIMATE SEMI GLOSS EULSION</title>
     <meta name="title" content="ULTIMATE SEMI GLOSS EULSION">
-    <meta name="description" content="Techno Protect Plus High-Quality Exterior Wall Latex Paint is water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
+    <meta name="description" content="Ultimate Semi Gloss Emulsion is a water-based, 100% pure acrylic resin emulsion paint.  A new generation of high-grade wall paint, refined by the perfect combination of the odourless new technology and film-function
    for a long time.It is also resistant to alkali, chalking, peeling and excessive colour fading">
 
     <!-- Open Graph / Facebook -->
@@ -141,8 +141,7 @@
                             <dt>Description</dt>
                             <dd>
                                 <p style="text-align:justify;">
-                                    Techno Protect Plus High-Quality Exterior Wall
-                                    Latex Paint is water-based, 100% pure acrylic resin emulsion paint. 
+                                    Ultimate Semi Gloss Emulsion is a water-based, 100% pure acrylic resin emulsion paint. 
                                     A new generation of high-grade wall paint, refined by the perfect combination of the
                                     odourless new technology and film-function for a long time.It is also resistant to
                                     alkali, chalking, peeling and excessive colour fading. 

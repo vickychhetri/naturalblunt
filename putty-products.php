@@ -50,16 +50,16 @@
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
 
-    html,
-    body {
-        height: 100%
-    }
+      /* html, */
+    /* body { */
+        /* height: 100% */
+    /* } */
 
-    body {
-        display: grid;
+    /* body { */
+        /* display: grid; */
         /* background: #fff;
         font-family: 'Manrope', sans-serif */
-    }
+    /* } */
 
     .mydiv {
         margin-top: 50px;
@@ -306,12 +306,12 @@ $product[0] = new Product("img/product/acrylic_wall.png ","Acrylic Putty","Speci
 
     <div class="container mydiv" style="margin-top: 8%;">
         <div class="row">
-        <div class="col-md-2">
-        </div>
+        <!-- <div class="col-md-2">
+        </div> -->
             <?php
 foreach($product as $p) {
 ?>
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <!-- bbb_deals -->
                 <div class="bbb_deals">
                     <div class="ribbon ribbon-top-right"><span><?php echo $p->get_tag();?> </span></div>
