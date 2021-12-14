@@ -19,5 +19,5 @@ $recipient = "amtrack01@gmail.com";
 $content=" Subject: $subject \n From: $name \n Email: $email \n Mobile: $mobile  \n Message: $message";
 $mailheader = "From: $from \r\n";
 mail($recipient, $subject."  ".$datetime, $content, $mailheader) or die("Error!");
-header("Location:Contact.php?message=send");
+header("Location:Thank-you.php?message=send");
 ?>

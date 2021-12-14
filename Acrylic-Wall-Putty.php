@@ -85,7 +85,7 @@
         ?>
 </head>
 
-<body>
+<body oncontextmenu="return false">
     <!-- Top Bar Start -->
 
     <?php

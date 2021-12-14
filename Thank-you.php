@@ -3,19 +3,19 @@
 
 <head>
     <meta charset="utf-8">
-    <title> About Us </title>
+
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <!-- Primary Meta Tags -->
-    <title>About Us</title>
-    <meta name="title" content="About Us">
+    <title>Contact Us</title>
+    <meta name="title" content="Contact Us">
     <meta name="description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://natureblunt.com/">
-    <meta property="og:title" content="About Us">
+    <meta property="og:title" content="Contact Us">
     <meta property="og:description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
     <meta property="og:image" content="https://natureblunt.com/img/logo.webp">
@@ -23,12 +23,10 @@
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://natureblunt.com/">
-    <meta property="twitter:title" content="About Us">
+    <meta property="twitter:title" content="Contact Us">
     <meta property="twitter:description" content="Browse through our wide range of paints, textures,
         patterns and styles to find the one that accentuates your home's beauty">
     <meta property="twitter:image" content="https://natureblunt.com/img/logo.webp">
-
-
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -78,7 +76,7 @@
         cursor: zoom-in;
     }
     </style>
-        <?php
+    <?php
         include_once('PHP_Inc/commonHeader.php');
         ?>
 </head>
@@ -97,57 +95,32 @@
         ?>
     <!-- Nav Bar End -->
 
-    <div style="margin-top:8%;">
+    <div class="container" style="margin-top: 8%;">
 
-        <?php
-        include_once('PHP_Inc/about2.php');
-        ?>
-        <div class="container">
+        <!--Section: Contact v.2-->
+        <section class="mb-4">
+
+            <!--Section heading-->
+            <h2 class="h1-responsive font-weight-bold text-center my-4">Message</h2>
+            <!--Section description-->
+      
+
             <div class="row">
+                <center>
 
-                <div class="col-md-6">
-                    <h2> MISSION </h2>
-                    <hr />
-                    <p style="text-align:justify;color:#1e2021;">
-                        The mission of the company is to provide best, high quality 
-                        products to each and every
-                        Household of the nation i.e we wish to paint it from east to west and north
-                        to south and satisfy each individual who uses wallsper products.
-                    </p>
+                    <h2 style="color: green;padding:16px;"> Thank you, your message sent
+                        successfully. Our team will get back to you within a matter of hours to help you. </h2>
+                        <a href="/" class="btn btn-info"> Goto Homepage</a>
+                    </center>
 
-                </div>
-                <div class="col-md-6">
-                    <h2>VISION </h2>
-                    <hr />
-                    <p style="text-align:justify;color:#1e2021;">
-                        Our vision is to make life long hand with our dealers and customers
-                         and provide the best
-                        sservices across india. We believe in make in india and 
-                        vocal for local and empowering the people
-                        of the country ,hence giving a bullish growth to the economy . 
-                        Our love for the people of the
-                        country
-                        is unbiased and hence we want to make their lives colourful and their homes beautiful.
-                    </p>
-
-                </div>
             </div>
 
-        </div>
-        <br />
-        <br />
-        <center>
+        </section>
+        <!--Section: Contact v.2-->
 
-            <img src="img/gif/wall.gif" style="max-width:100%;" />
-        </center>
-        <br />
-        <br />
-        <br />
-        <center>
-            <a href="Contact.php" class="btn btn-danger" style="border:1px solid black;"> Contact Now </a>
-        </center>
 
     </div>
+
 
     <!-- Footer Start -->
     <?php

@@ -33,9 +33,6 @@
 
 
 
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap"
         rel="stylesheet">
@@ -56,13 +53,8 @@
         ?>
 </head>
 
-<body onload="myFunction()">
-<div id="loader"></div>
-
-    <!-- Top Bar Start -->
-    <div style="display:none;" id="myDiv" class="animate-bottom">
-    </div>
-
+<body oncontextmenu="return false">
+ 
     <?php
         include_once('PHP_Inc/topHeader.php');
         ?>
@@ -140,20 +132,6 @@
 <!-- Footer End -->
 
     <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-
-    
-<script>
-var myVar;
-
-function myFunction() {
-  myVar = setTimeout(showPage, 3000);
-}
-
-function showPage() {
-  document.getElementById("loader").style.display = "none";
-  document.getElementById("myDiv").style.display = "block";
-}
-</script>
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
